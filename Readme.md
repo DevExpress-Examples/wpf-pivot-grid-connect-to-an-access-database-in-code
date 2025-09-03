@@ -35,7 +35,7 @@ Follow the steps below to create and configure Pivot Grid fields.
 
 ## Documentation
 
-- [Optimized Calculation Engine](https://docs.devexpress.com/CoreLibraries/401367/devexpress-pivot-grid-core-library/pivot-grid-modes/in-memory-mode/pivot-grid-optimized-calculation-engine?v=22.1)
+- [Optimized Calculation Engine](https://docs.devexpress.com/CoreLibraries/401367/devexpress-pivot-grid-core-library/pivot-grid-modes/in-memory-mode/pivot-grid-optimized-calculation-engine)
 - [Binding to Data](https://docs.devexpress.com/WindowsForms/1842/controls-and-libraries/pivot-grid/binding-to-data)
 
 
@@ -49,3 +49,4 @@ Follow the steps below to create and configure Pivot Grid fields.
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
